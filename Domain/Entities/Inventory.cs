@@ -9,7 +9,7 @@ namespace Domain.Entities;
         public double ValueSellUsd {get;set;}
         public int IdClothingFk {get;set;}
         public Clothing Clothing {get;set;}
-    
+        public ICollection<Size> Sizes = new HashSet<Size>();
         public ICollection<InventorySize> InventorySizes {get;set;}
         
         

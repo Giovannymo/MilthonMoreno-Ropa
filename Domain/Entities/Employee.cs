@@ -5,7 +5,7 @@ namespace Domain.Entities;
     {
         public string Name {get;set;}
         public DateTime JoinDate {get;set;}
-        public int IdJobTitle {get;set;}
+        public int IdJobTitleFk {get;set;}
         public JobTitle JobTitle {get;set;}
         public int IdMunicipalityFk {get;set;}
         public Municipality Municipality {get;set;}
