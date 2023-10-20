@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TYi6hA20dgNNDU+mK47kz1JH+cwXfF+py/AGVCTjDgHv478zlZ7LFFeJeO7gD0Mu7PSWa6ZG+NrPs6laAvtHUg==",
+  "dgSpecHash": "WQLFYDvtTzRhqevvYR/MKWCeEBDVnAK7UAT5Q5XqNHjj767OiO53BjPF3qsUJDxaJQ4Jvdy1Y9sbw0lc+KTDfw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gio\\Documents\\PROGRAMACION\\Campus\\projectsNetCore\\SkelettonForWebApi\\Domain\\Domain.csproj",
+  "projectFilePath": "C:\\Users\\gio\\Documents\\PROGRAMACION\\Campus\\projectsNetCore\\MilthonMoreno-Ropa\\Domain\\Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gio\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512",
     "C:\\Users\\gio\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",

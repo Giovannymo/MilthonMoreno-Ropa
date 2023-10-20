@@ -5278,11 +5278,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gio\\Documents\\PROGRAMACION\\Campus\\projectsNetCore\\SkelettonForWebApi\\Application\\Application.csproj",
+      "projectUniqueName": "C:\\Users\\gio\\Documents\\PROGRAMACION\\Campus\\projectsNetCore\\MilthonMoreno-Ropa\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "C:\\Users\\gio\\Documents\\PROGRAMACION\\Campus\\projectsNetCore\\SkelettonForWebApi\\Application\\Application.csproj",
+      "projectPath": "C:\\Users\\gio\\Documents\\PROGRAMACION\\Campus\\projectsNetCore\\MilthonMoreno-Ropa\\Application\\Application.csproj",
       "packagesPath": "C:\\Users\\gio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gio\\Documents\\PROGRAMACION\\Campus\\projectsNetCore\\SkelettonForWebApi\\Application\\obj\\",
+      "outputPath": "C:\\Users\\gio\\Documents\\PROGRAMACION\\Campus\\projectsNetCore\\MilthonMoreno-Ropa\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gio\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5299,11 +5299,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\gio\\Documents\\PROGRAMACION\\Campus\\projectsNetCore\\SkelettonForWebApi\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\gio\\Documents\\PROGRAMACION\\Campus\\projectsNetCore\\SkelettonForWebApi\\Domain\\Domain.csproj"
+            "C:\\Users\\gio\\Documents\\PROGRAMACION\\Campus\\projectsNetCore\\MilthonMoreno-Ropa\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\gio\\Documents\\PROGRAMACION\\Campus\\projectsNetCore\\MilthonMoreno-Ropa\\Domain\\Domain.csproj"
             },
-            "C:\\Users\\gio\\Documents\\PROGRAMACION\\Campus\\projectsNetCore\\SkelettonForWebApi\\Persistence\\Persistence.csproj": {
-              "projectPath": "C:\\Users\\gio\\Documents\\PROGRAMACION\\Campus\\projectsNetCore\\SkelettonForWebApi\\Persistence\\Persistence.csproj"
+            "C:\\Users\\gio\\Documents\\PROGRAMACION\\Campus\\projectsNetCore\\MilthonMoreno-Ropa\\Persistence\\Persistence.csproj": {
+              "projectPath": "C:\\Users\\gio\\Documents\\PROGRAMACION\\Campus\\projectsNetCore\\MilthonMoreno-Ropa\\Persistence\\Persistence.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YfCTJ7D6M8JcAycBwhIqjnXDzWUmmoxSX2Em+hTG2ZPoqcM78nx5x54uDcLs/ea8gYHNh5/7Uk2EyfwAhHXTNQ==",
+  "dgSpecHash": "597fC8YGQeN4NUiaPraGlAMzeZLdarmIYkMclaOfuCmV/gH9Npw+43e19GFCEefaJFg4YDj5kZcYTmEX4M+ofA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gio\\Documents\\PROGRAMACION\\Campus\\projectsNetCore\\SkelettonForWebApi\\Application\\Application.csproj",
+  "projectFilePath": "C:\\Users\\gio\\Documents\\PROGRAMACION\\Campus\\projectsNetCore\\MilthonMoreno-Ropa\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gio\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512",
     "C:\\Users\\gio\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512",

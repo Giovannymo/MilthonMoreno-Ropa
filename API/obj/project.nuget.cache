@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PiPa8J/rMDX6d5zTSSQb00BkdNX2tIR4az/QWoopkV3C4OKNjwQiy6bdFdWBz48giCBiT4vnZKjeF/Nm05ye5w==",
+  "dgSpecHash": "8k41aKsEUDosuPANuZiuQNo3p5HV8yljolqgDYOLqJ7aD4UEWcdsNW0zz21AdoTyR4JsmZJoxPjPblctPZPT+w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gio\\Documents\\PROGRAMACION\\Campus\\projectsNetCore\\SkelettonForWebApi\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\gio\\Documents\\PROGRAMACION\\Campus\\projectsNetCore\\MilthonMoreno-Ropa\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gio\\.nuget\\packages\\aspnetcoreratelimit\\5.0.0\\aspnetcoreratelimit.5.0.0.nupkg.sha512",
     "C:\\Users\\gio\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",

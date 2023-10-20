@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5WIr7QljdG7dkJ8U3U4n3ZDJuUaLg3GVbMDjrwGmYEBIo1mNsvQSlzoOkhCIGX/iA9HR5jjo7FBypbR65Bd8gw==",
+  "dgSpecHash": "ieK6TASanL2W/lgpd/GNa/9ZhKi2HqVvQ0WAcA7T0CUcJfHjmC6n01QEJ6xtVZMR5WueaGApy2RnI9uvnKOF/A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gio\\Documents\\PROGRAMACION\\Campus\\projectsNetCore\\SkelettonForWebApi\\Persistence\\Persistence.csproj",
+  "projectFilePath": "C:\\Users\\gio\\Documents\\PROGRAMACION\\Campus\\projectsNetCore\\MilthonMoreno-Ropa\\Persistence\\Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gio\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512",
     "C:\\Users\\gio\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512",
