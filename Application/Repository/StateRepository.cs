@@ -5,12 +5,12 @@ using Persistence;
 
 namespace Application.Repository
 {
-    public class RolRepository : GenericRepository<Rol>, IRol
+    public class StateRepository : GenericRepository<State>, IState
     {
         
         private readonly SkelettonContext _context;
 
-        public RolRepository(SkelettonContext context) : base(context)
+        public StateRepository(SkelettonContext context) : base(context)
         {
             _context = context;
         }
